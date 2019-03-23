@@ -2,7 +2,7 @@ class Hash
   def keys_of(arguments)
     # code goes here
     animals = []
-    self.each { |animal
+    self.each { |animal, country|
     
   end
 end
