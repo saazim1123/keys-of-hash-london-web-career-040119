@@ -3,6 +3,8 @@ class Hash
     # code goes here
     animals = []
     self.each do |animal, country|
+      
+    end
     
   end
 end
