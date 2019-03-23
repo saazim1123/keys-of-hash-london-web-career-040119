@@ -3,7 +3,9 @@ class Hash
     # code goes here
     animals = []
     self.each do |animal, country|
-      if arguments.include? 
+      if arguments.include?(country)
+        
+      end
     end
     
   end
